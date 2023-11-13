@@ -7,4 +7,4 @@
 
 ***
 
-[Учебные материалы](https://github.com/imerofeev/MDK_02.02_HW/Materials)
+[Учебные материалы](https://github.com/imerofeev/MDK_02.02_HW/tree/main/Materials)
