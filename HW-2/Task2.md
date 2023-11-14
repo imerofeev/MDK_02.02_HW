@@ -9,6 +9,11 @@
 2. FL Studio 21
 3. VirtualDJ 2020 pro
 
+Тут вы сможете прочитать, *для чего* и *как использовать* 2 из моих любимых **DAW**: 
 
+* <https://ru.wikipedia.org/wiki/FL_Studio> 
+
+* [что такое Cubase](<https://ru.wikipedia.org/wiki/Steinberg_Cubase>)
  
+
  
