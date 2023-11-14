@@ -12,3 +12,8 @@
 * VULKAN
 * 500
 
+## Ссылки
+[BetBoom](<https://betboom.ru/>)
+
+[Основные правила ставок](<https://metaratings.ru/shkola-bettinga/osnovnye-pravila-stavok-na-sport/> "Основные правила")
+
