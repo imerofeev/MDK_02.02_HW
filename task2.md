@@ -18,3 +18,9 @@
 [Что такое валорант и про что она](<https://ru.wikipedia.org/wiki/Valorant>)
 
 [Основные новости про киберспорт данной дисциплины](<https://www.vlr.gg> "Киберспортивные новости valorant")
+
+## Картинки
+
+![Логотип Valorant](https://i.imgur.com/bUNtee4.png)
+![clipboard](https://i.imgur.com/bAdNNhv.png)
+
