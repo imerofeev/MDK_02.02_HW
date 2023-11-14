@@ -16,4 +16,11 @@
 * [что такое Cubase](<https://ru.wikipedia.org/wiki/Steinberg_Cubase>)
  
 
- 
+
+![лого Cubase](https://provst.org/wp-content/uploads/2020/12/cubase-crack.png)
+
+![лого фл студио](https://e7.pngegg.com/pngimages/849/477/png-clipart-fl-studio-mobile-computer-icons-music-android-food-studio.png)
+
+
+
+
