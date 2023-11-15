@@ -17,5 +17,5 @@
 
 ### Фотокарточки 
 
-! [Фотокарточка] (photo1.jpg)
-! [Фотокарточка] (photo2.jpg)
+! [Фотокарточка] (https://ginger-slim.ru/wp-content/uploads/2020/09/1600485881_990_Professii-svyazannye-s-istoriej.jpg)
+! [Фотокарточка] (https://static.tildacdn.com/tild6334-6339-4239-b663-613536323735/photo.jpg)
