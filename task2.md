@@ -16,3 +16,5 @@
 [пельмени](https://www.russianfood.com/recipes/bytype/?fid=64)
 <https://www.russianfood.com/recipes/bytype/?fid=640>
 ### фотокарточки 
+[борщ](https://media.ovkuse.ru/images/recipes/df04ad83-9adf-4556-9e2d-b42e318784ad/df04ad83-9adf-4556-9e2d-b42e318784ad_420_420.webp)
+[пельмени](https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Pelmeni_Russian.jpg/411px-Pelmeni_Russian.jpg)
