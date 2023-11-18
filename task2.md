@@ -15,3 +15,4 @@
 [борщ](https://lifehacker.ru/classic-borshcht/)
 [пельмени](https://www.russianfood.com/recipes/bytype/?fid=64)
 <https://www.russianfood.com/recipes/bytype/?fid=640>
+### фотокарточки 
