@@ -18,7 +18,11 @@
   <ol> Pubg, Дурак онлайн
   </ol>
 <h1>
+  ссылки:
+  dota-2 - https://dota2.ru/faq/23-skachat-dota-2/
+  cs-2 - https://www.counter-strike.net/cs2?l=russian
   
+
   
    
 
