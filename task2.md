@@ -33,7 +33,7 @@
 
 [лор игры и персонажей] (<https://dota2.ru/guides/5574-lor-istoriya-mira-doty-i-ejo-geroev-chast-1-nachalo-geroi-svyazi-geroev-lokacii/)
 
-##Картинки
+## Картинки
 
 ! [логотип доты] (<https://i.ytimg.com/vi/e4waurq_4c0/maxresdefault.jpg)
 
