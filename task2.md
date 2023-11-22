@@ -32,3 +32,9 @@
 [все локации доты]) (<https://dota2.fandom.com/ru/wiki/Карта)
 
 [лор игры и персонажей] (<https://dota2.ru/guides/5574-lor-istoriya-mira-doty-i-ejo-geroev-chast-1-nachalo-geroi-svyazi-geroev-lokacii/)
+
+##Картинки
+
+! [логотип доты] (<https://i.ytimg.com/vi/e4waurq_4c0/maxresdefault.jpg)
+
+![лого стима] (<https://www.digiseller.ru/preview/356187/p1_3518729_cea7e844.jpg)
