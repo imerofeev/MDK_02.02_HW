@@ -14,3 +14,10 @@
 Что такое Majestic Gun Zone?
 Это Самое громкое событие. Участники события - самые известные и сильные семьи проекта: Wave, Groznensky, Uzi, Bastard, Navarro, Tape, Faraday, Serenity, Bullit и Osborn. Каждой семье будет выдана своя фракция, чтобы показать кто является самым сильным составом на проекте.
 
+## Ссылки
+Треллер [YouTube] (<https://www.youtube.com/watch?v=ZH5TR3gIuAE>) Gun Zone Season 3
+
+Что такое Majestic Cyber League?
+Это сеть соревновательных турниров между семьями и отдельными игроками всех серверов Majestic RP.
+
+Как выглядит геймплей на MCL'е [YouTube] (<https://www.youtube.com/watch?v=jbDwZIUrGE8&t=93s>) 
