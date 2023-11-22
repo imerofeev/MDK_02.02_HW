@@ -35,6 +35,6 @@
 
 ## Картинки
 
-! [логотип доты] (<https://i.ytimg.com/vi/e4waurq_4c0/maxresdefault.jpg)
+! [логотип доты] {https://i.ytimg.com/vi/e4waurq_4c0/maxresdefault.jpg}
 
-![лого стима] (<https://www.digiseller.ru/preview/356187/p1_3518729_cea7e844.jpg)
+! [лого стима] {https://www.digiseller.ru/preview/356187/p1_3518729_cea7e844.jpg}
