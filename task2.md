@@ -32,3 +32,9 @@
 [social club] (https://socialclub.rockstargames.com)
 
 [гта5 рп](https://gta5rp.com/about?_ga=2.14791670.1595730567.1700754866-1827187331.1679858559)
+
+## Картинки
+
+![логотип гта5 рп](https://avatars.dzeninfra.ru/get-zen_doc/3606239/pub_63ce82ed07af652e69940285_63ce8a55f33e917c0919b4c0/scale_1200)
+
+![логотип social club](https://gamesqa.ru/wp-content/uploads/2017/03/Social_Clab.jpg)
