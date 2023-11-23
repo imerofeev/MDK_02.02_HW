@@ -8,3 +8,4 @@
 5. Team Fortress  
 6. Metro  
   
+Чаще всего играл в [варфейс](https://ru.warface.com/promo/roulette/new?_1ld=3477087_2051689_5197548541_14179548138_44814253217&_1lp=1&oprtrack=4488&_1lpbf=2&yclid=6761007796598341631) , а также большинство игр было скаченно через стим: <https://store.steampowered.com>  
