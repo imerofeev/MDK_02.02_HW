@@ -28,4 +28,8 @@
 1. https://youtu.be/8h3oEtkD-wk?si=W-1DhlM4ObaRE-9D
 
 2. https://youtu.be/ipVwC0QA4WY?si=ap6R35EU2bTxN1HV
+
+![image](https://github.com/Garannn/Garan_HW1/assets/151853944/bef6595a-40a8-4b21-b74d-e380026e2f12)                                           ![image](https://github.com/Garannn/Garan_HW1/assets/151853944/f6790aff-3610-4156-9940-e10aea5b63dd)
+
+
  
