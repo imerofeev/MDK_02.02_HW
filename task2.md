@@ -23,3 +23,10 @@
 * Bristleback
 * Juggernaut
 * Shadow Shaman
+
+## Ссылки
+[правила игры в доту] (<https://sport-hmao.ru/poleznye-sovety/dota-2-chto-eto/)
+
+[все персонажи доты] (<https://dota2.ru/heroes/)
+
+[все локации доты]) (<https://dota2.fandom.com/ru/wiki/Карта)
