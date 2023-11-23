@@ -5,12 +5,6 @@
 1. Assembler
 2. C++
 
-
-
-
-
-
-
-
-
+1. [Assembler](https://ru.wikipedia.org/wiki/Язык_ассемблера)
+2. <https://ru.wikipedia.org/wiki/C%2B%2B>
 
