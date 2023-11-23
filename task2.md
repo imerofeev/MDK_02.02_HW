@@ -24,3 +24,11 @@
 3. Гонки в другом измерении
 4. Гослото 2023
 5. КОРОЛИ ТАНЦПОЛА
+
+## Ссылки
+
+[форум] (https://forum.gta5rp.com)
+
+[social club] (https://socialclub.rockstargames.com)
+
+[гта5 рп](https://gta5rp.com/about?_ga=2.14791670.1595730567.1700754866-1827187331.1679858559)
