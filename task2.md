@@ -12,3 +12,9 @@
 3. Белогорье
 4. Динамо
 5. Локомотив-Изумруд
+
+## Ссылки
+
+[правила игры в волейбол] (https://bookmaker-ratings.ru/wiki/pravila-voleybol/)
+
+[Одна из команд] (https://pvccska.ru)
