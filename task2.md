@@ -5,3 +5,6 @@
 ## мои любимые игроки
 1. Эден Азар
 2. Холанд
+
+1. [Эден Азар](https://ru.wikipedia.org/wiki/Азар,_Эден)
+2. <https://ru.wikipedia.org/wiki/Холланд>
