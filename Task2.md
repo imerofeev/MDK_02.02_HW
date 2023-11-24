@@ -25,5 +25,4 @@
 
 [как собрать первую модель](https://arma-models.ru/stati/azi-sborki-dlya-nachinayushih/moya-pervaya-model-s-chego-nachat/)
 
-
   
