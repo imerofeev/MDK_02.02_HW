@@ -26,5 +26,7 @@
 
 ## Ссылки
 [TEAM SPIRIT] (https://teamspirit.gg)
+
 [GAIMING GLADIATORS] (https://www.gaimingladiators.gg)
+
 [Итоги прошлого интернейшнла] (https://www.dota2.com/esports/ti12/standings/results/0)
