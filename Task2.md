@@ -27,7 +27,7 @@
 
 ## Картинки 
 
-![танк](https://images.app.goo.gl/7aMRKY5GAzJruP7J9)
+![танк](https://rcstore.ru/upload/iblock/088/ZV_3686_02.jpg)
 
-![Toyota Supra Toms](https://images.app.goo.gl/B7rXkaAYyXWvr77b7)
+![Toyota Supra Toms](https://i.imgur.com/q10wCLN.jpg)
   
