@@ -25,4 +25,9 @@
 
 [как собрать первую модель](https://arma-models.ru/stati/azi-sborki-dlya-nachinayushih/moya-pervaya-model-s-chego-nachat/)
 
+## Картинки 
+
+![танк](https://images.app.goo.gl/7aMRKY5GAzJruP7J9)
+
+![Toyota Supra Toms](https://images.app.goo.gl/B7rXkaAYyXWvr77b7)
   
