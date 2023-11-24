@@ -18,3 +18,10 @@
 * Горящая алая ведьма
 * Воспоминания Симэнавы
 * Стойкость Миллелита
+
+## Ссылки
+[лор игры] (https://thegirl.ru/articles/kratkoe-soderzhanie-lora-genshin-impact-vse-chto-ty-khotela-znat-ob-istorii-teivata/)
+
+[секреты игры] (https://www.allmmorpg.ru/zen/genshin-impact-13-sekretov-o-kotoryx-vy-ne-znali/)
+
+[персонажи игры] (https://genshin-info.ru/wiki/personazhi/)
