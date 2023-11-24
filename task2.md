@@ -22,3 +22,14 @@
 * Mochi [Awakening]
 * Princess Appala
 * Lucci (Heaven)
+
+## ссылки
+[tier list Regular Infinite] (<https://allstartd.fandom.com/wiki/Tier_Lists#Regular_Infinite)
+
+[tier list Progressive Modes] (<https://allstartd.fandom.com/wiki/Tier_Lists#Progressive_Modes)
+
+[tier list Girlzone] (<https://allstartd.fandom.com/wiki/Tier_Lists#Girlzone)
+
+[tier list Gauntlet (Solos/Duos)] (<https://allstartd.fandom.com/wiki/Tier_Lists#Gauntlet_(Solos/Duos))
+
+
