@@ -18,9 +18,21 @@
   <ol> Pubg, Дурак онлайн
   </ol>
 <h1>
-  ссылки:
-  dota-2 - https://dota2.ru/faq/23-skachat-dota-2/
-  cs-2 - https://www.counter-strike.net/cs2?l=russian
+ссылки:
+  <ol> <li> 
+
+ [dota-2](https://dota2.ru/faq/23-skachat-dota-2/) </li>
+<li>
+  
+  [cs-2](https://www.counter-strike.net/cs2?l=russian)
+  </li> </ol>
+  </h1>
+  Фото:
+
+ [кс-2](https://static.wikia.nocookie.net/counterstrike/images/a/a5/Cs2_boxart.webp/revision/latest?cb=20230617064730&path-prefix=ru)
+
+ [dota-2](https://cdn.akamai.steamstatic.com/steam/apps/570/header.jpg?t=1697142820)
+
   
 
   
