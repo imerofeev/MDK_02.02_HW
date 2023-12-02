@@ -16,4 +16,5 @@
 
 ![тык](https://avatars.mds.yandex.net/i?id=b51c269396fc0bca16427d081dbed6118b1415c7-10397524-images-thumbs&n=13)
 
+![пуньк](https://avatars.mds.yandex.net/i?id=d8cae52a52bfeb6f2d238706a0d75cb6844cb4fa-9866196-images-thumbs&n=13)
 
