@@ -8,6 +8,7 @@
 
 * люблю пить чай
 
+ ## Картинки: ##
 
 ![Изображение](https://corporation-t.ru/wp-content/uploads/2023/02/k15.jpg)
 
