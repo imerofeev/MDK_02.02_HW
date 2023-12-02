@@ -5,8 +5,8 @@
 1. Иосиф Кобзон
 2. Людмила Сенчина
 3. Modern Talking
-
-
-   
+* Queen
+* Silent Circle
+* Ace Of Base   
 ![Людмила Сенчина](https://i01.fotocdn.net/s209/892d25895fce30fa/public_pin_l/2571428413.jpg)
 ![Иосиф Кобзон](https://cdnn1.img.armeniasputnik.am/img/875/92/8759222_70:2:1037:1064_1920x0_80_0_0_a794b091539fdffa9419b88538bc8753.jpg)
