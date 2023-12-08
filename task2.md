@@ -11,3 +11,6 @@ __Но из-за того что не хватает времени я не иг
  * Клауд-рэп   
  <https://ru.m.wikipedia.org/wiki/Гитара>    
  [Жанры музыки]<https://indierockschool.ru/news/chto-takoe-muzykalnyj-zhanr/>
+ ![изображение](https://i.ebayimg.com/00/s/MTU5M1gxNjAw/z/MNEAAOSwIpRhvjX9/$_57.JPG?set_id=8800005007)
+ ![](https://w.forfun.com/fetch/5b/5bf4a83fa48ed97c7dfc2cd59324e14e.jpeg)
+
