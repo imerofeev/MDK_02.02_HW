@@ -19,7 +19,7 @@
 * Пацаны
 * Атака титанов (аниме)
 ## _Ссылки_ ##
-[Ссылка!](https://web.telegram.org/)
+[Ссылка!](https://web.telegram.org/) - ссылка кнопка
 
-<https://browser.yandex.ru/; – а это безанкорная ссылка.
+https://browser.yandex.ru/ – безанкорная ссылка
 
