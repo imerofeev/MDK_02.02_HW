@@ -6,3 +6,5 @@
 * Pathlogic 2
 * Dota 2
 * Disco Elysium
+* Vampyr
+* Dark Souls (all parts)
