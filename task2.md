@@ -22,4 +22,8 @@
 [Ссылка!](https://web.telegram.org/) - ссылка кнопка
 
 https://browser.yandex.ru/ – безанкорная ссылка
+## *Картинки* ##
+![Картинка](https://gas-kvas.com/uploads/posts/2023-01/1673291196_gas-kvas-com-p-risunki-anime-berserk-20.jpg)
+
+![Картинка](image_url)
 
