@@ -4,4 +4,5 @@
 #### Любимые игры ####
 * Witcher 3
 * Pathlogic 2
-* Dota 2 
+* Dota 2
+* Disco Elysium
