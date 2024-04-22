@@ -1,0 +1,144 @@
+/* Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  /* Общий вид */
+  .container {
+    position: relative;
+    width: 1680px;
+    height: 3514px;
+  }
+  
+  /* header */
+  .header {
+    position: absolute;
+    width: 1680px;
+    height: 960px;
+    left: 0px;
+    top: 60px;
+    background: #FFFFFF;
+  }
+  
+  .header h1 {
+    position: absolute;
+    width: 686px;
+    height: 160px;
+    left: 144px;
+    top: 354px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 56px;
+    line-height: 80px;
+    letter-spacing: -0.015em;
+    color: #454545;
+  }
+  
+  .header .primary-button {
+    position: absolute;
+    width: 192px;
+    height: 52px;
+    left: 145px;
+    top: 554px;
+    background: #454545;
+    border-radius: 6px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 17px;
+    line-height: 21px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    letter-spacing: -0.015em;
+    color: #FFFFFF;
+  }
+  
+  /* navigation */
+  .navigation {
+    position: absolute;
+    width: 1680px;
+    height: 60px;
+    left: 0px;
+    top: 0px;
+    background: #FFFFFF;
+  }
+  
+  .navigation .nav-item {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 18px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    letter-spacing: -0.015em;
+    color: #454545;
+  }
+  
+  .navigation .nav-item + .nav-item {
+    margin-left: 20px;
+  }
+  
+  /* main content */
+  .main-content {
+    position: absolute;
+    width: 1680px;
+    top: 1020px;
+    background: #FFFFFF;
+    padding: 20px;
+  }
+  
+  .main-content h2 {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 28.4444px;
+    line-height: 32px;
+    letter-spacing: -0.015em;
+    color: #454545;
+    margin-bottom: 10px;
+  }
+  
+  .main-content p {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 30px;
+    letter-spacing: -0.015em;
+    color: #454545;
+  }
+  
+  /* footer */
+  .footer {
+    position: absolute;
+    width: 1680px;
+    height: 122px;
+    left: 0px;
+    top: 1198px;
+    background: #FFFFFF;
+  }
+  
+  .footer h3 {
+    position: absolute;
+    width: 301px;
+    height: 24px;
+    left: 1299px;
+    top: 49px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 24px;
+    text-align: right;
+    letter-spacing: -0.015em;
+    color: #454545;
+  }
+  
