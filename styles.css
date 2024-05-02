@@ -1,0 +1,247 @@
+/* Общие стили */
+body {
+    margin: 0;
+    font-family: 'Montserrat', sans-serif;
+  }
+  
+  .grid-container {
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: auto 1fr auto;
+    min-height: 100vh;
+  }
+  
+  /* Стили для шапки */
+  .header {
+    background-color: #ffffff;
+    padding: 10px;
+  }
+  
+  .menu {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 1680px;
+    margin: 0 auto;
+  }
+  
+  .menu__title {
+    font-family: 'Comfortaa', cursive;
+    font-size: 28px;
+    color: #454545;
+    margin: 0;
+  }
+  
+  .menu__links {
+    display: flex;
+  }
+  
+  .menu__link {
+    color: #333;
+    text-decoration: none;
+    margin-left: 10px;
+  }
+  
+  /* Стили для главной секции */
+  .main {
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: repeat(4, auto);
+    gap: 20px;
+    padding: 20px;
+  }
+  
+  .hero {
+    background-color: #c2c0c0;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+  }
+  
+  .hero__text {
+    margin-bottom: 20px;
+  }
+  
+  .hero__text h1 {
+    font-size: 56px;
+    line-height: 80px;
+    letter-spacing: -0.015em;
+    color: #454545;
+    margin: 0;
+  }
+  
+  .hero__button {
+    background-color: #353434;
+    color: #ffffff;
+    border: none;
+    border-radius: 15px;
+    padding: 10px 20px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+    font-size: 17px;
+    line-height: 21px;
+    cursor: pointer;
+  }
+  
+  /* Стили для секции с фактами */
+  .facts {
+    background-color: #e7e5e5;
+    padding: 20px;
+  }
+  
+  .facts__header {
+    margin-bottom: 20px;
+  }
+  
+  .facts__header h2 {
+    margin: 0;
+  }
+  
+  .facts__cards {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+  }
+  
+  .facts__card {
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .facts__card--red {
+    background-color: #ff6666;
+    color: #ffffff;
+  }
+  
+  .facts__card--blue {
+    background-color: #66ccff;
+    color: #ffffff;
+  }
+  
+  .facts__card--yellow {
+    background-color: #ffcc66;
+    color: #454545;
+  }
+  
+  /* Стили для галереи изображений */
+  .gallery {
+    background-color: #f2f2f2;
+    padding: 20px;
+  }
+  
+  .gallery__header {
+    margin-bottom: 20px;
+  }
+  
+  .gallery__images {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 20px;
+  }
+  
+  .gallery__image {
+    height: 200px;
+    border-radius: 10px;
+  }
+  
+  .gallery__image--red {
+    background-color: #ff6666;
+  }
+  
+  .gallery__image--green {
+    background-color: #66ff66;
+  }
+  
+  .gallery__image--pink {
+    background-color: #ff66ff;
+  }
+  
+  .gallery__image--blue {
+    background-color: #66ccff;
+  }
+  
+  /* Стили для секции обратной связи */
+  .feedback {
+    background-color: #e7e5e5;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  
+  .feedback__header {
+    margin-bottom: 20px;
+  }
+  
+  .feedback__button {
+    background-color: #353434;
+    color: #ffffff;
+    border: none;
+    border-radius: 15px;
+    padding: 10px 20px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+    font-size: 17px;
+    line-height: 21px;
+    cursor: pointer;
+  }
+  
+  .feedback__box {
+    width: 100%;
+    height: 200px;
+    background-color: #66ff66;
+    border-radius: 10px;
+    margin-top: 20px;
+  }
+  
+  /* Стили для подвала */
+  .footer {
+    background-color: #ffffff;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .footer__circles {
+    display: flex;
+    margin-bottom: 20px;
+  }
+  
+  .footer__circle {
+    width: 20px;
+    height: 20px;
+    background-color: #454545;
+    border-radius: 50%;
+    margin-right: 10px;
+  }
+  
+  .footer__circle:last-child {
+    margin-right: 0;
+  }
+  
+  .footer__links {
+    display: flex;
+    margin-bottom: 20px;
+  }
+  
+  .footer__link {
+    color: #333;
+    text-decoration: none;
+    
+  margin-right: 10px;
+}
+
+.footer__link:last-child {
+  margin-right: 0;
+}
+
+.footer__copyright {
+  margin: 0;
+  color: #454545;
+  font-size: 14px;
+}
