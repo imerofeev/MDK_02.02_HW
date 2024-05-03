@@ -1,0 +1,86 @@
+@font-face {
+    font-family: 'Lato';
+    src: url('/fonts/Lato-Regular.ttf') format('truetype');
+}
+  body {
+    background-color: #F5F5F5; 
+}
+.navigator {
+    position: absolute;
+    width: 1680px;
+    height: 60px;
+    top: 21px; 
+    left: 100px;
+    background: #FFFFFF;
+
+    ;
+    padding: 10px;
+    align-self: start;
+}
+
+.navigator_text {
+    display: grid;
+    padding: 14px 0;
+    padding-left: 21px;
+    font-size: 28.44px;
+    font-family: 'Lato'
+}
+
+.navigator_lists {
+    display: grid;
+    grid-template-columns: repeat(3, max-content); 
+    justify-content: end; 
+    gap: 21px;
+    font-size: 15px;
+    text-decoration: none;
+    color: #333;
+    margin-top: -14px;
+    font-family: 'Lato' 
+}
+
+
+.header {
+    position: absolute;
+    width: 1680px;
+    height: 960px;
+    top: 317px;
+    left: 100px;
+    gap: 0px;
+    opacity: 0px;
+ 
+
+}
+.header__text {
+    font-family: 'Lato';
+    font-size: 56px;
+    font-weight: 400;
+    line-height: 80px;
+    letter-spacing: -0.015em;
+    text-align: left;
+
+}
+
+.header_text {
+    font-family: 'Lato';
+    font-size: 56px;
+    font-style: italic;
+    font-weight: 700;
+    line-height: 80px;
+    letter-spacing: -0.015em;
+    text-align: left;
+
+}
+
+.button {
+    background-color: #353434;
+    color: #ffffff;
+    border: none;
+    border-radius: 15px;
+    padding: 10px 20px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+    font-size: 17px;
+    line-height: 21px;
+    cursor: pointer;
+}
+
