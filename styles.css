@@ -8,6 +8,7 @@
     height: 60px;
     margin-left: auto; /* Центрируем контейнер по горизонтали */
     margin-right: auto;
+    border-radius: 20px;
     
     background: #ffffff;
     
@@ -63,12 +64,14 @@
   width: 100%; /* Используем относительную ширину */
   max-width: 1680px; /* Ограничиваем максимальную ширину */
   height: 960px;
+  top: 25px;
   margin-left: auto; /* Центрируем контейнер по горизонтали */
   margin-right: auto;
+  border-radius: 20px;
 
 
 
-background: #c2c0c0;
+background: #fbfafa;
 
   }
   
@@ -163,13 +166,15 @@ background: #c2c0c0;
    position: relative;
    width: 100%; /* Используем относительную ширину */
    max-width: 1680px; /* Ограничиваем максимальную ширину */
-   height: 1174px;
+   height: 1150px;
+   top: 50px;
    margin-left: auto; /* Центрируем контейнер по горизонтали */
    margin-right: auto;
+   border-radius: 20px;
  
  
  
- background: #e7e5e5;
+ background: #fffefe;
  
    }
    
@@ -225,6 +230,7 @@ background: #c2c0c0;
     top: 328px;
     background: #FFFFFF;
     border: 1px solid rgba(0, 0, 0, 0.5);
+    border-radius: 20px;
 }
 .card-2 {
   box-sizing: border-box;
@@ -235,6 +241,7 @@ background: #c2c0c0;
   top: 328px;
   background: #FFFFFF;
   border: 1px solid rgba(0, 0, 0, 0.5);
+  border-radius: 20px;
 }
 
 .card-3 {
@@ -246,6 +253,7 @@ background: #c2c0c0;
   top: 328px;
   background: #FFFFFF;
   border: 1px solid rgba(0, 0, 0, 0.5);
+  border-radius: 20px;
 }
 
 /* Rectangle - Image Block */
@@ -260,6 +268,7 @@ width: 427px;
 height: 441px;
 left: 112px;
 top: 328px;
+border-radius: 20px;
 
 
 
@@ -289,6 +298,7 @@ width: 427px;
 height: 441px;
 left: 112px;
 top: 328px;
+border-radius: 20px;
 
 
 
@@ -318,6 +328,7 @@ width: 427px;
 height: 441px;
 left: 112px;
 top: 328px;
+border-radius: 20px;
 
 
 
@@ -364,6 +375,7 @@ color: #454545;
   left: 100px;
   top: 450px;
   
+  
   /* Body H4 */
   font-family: 'Montserrat';
   font-style: normal;
@@ -403,12 +415,14 @@ color: #454545;
 .img-container{
 position: relative;
 width: 1680px;
-height: 2000px;
+height: 500px;
 left: 0px;
-top: 0px;
+top: 100px;
 margin-left: auto; /* Центрируем контейнер по горизонтали */
 margin-right: auto;
 background: #ffffff;
+border-radius: 20px;
+
 }
 
 /* gallery */
@@ -418,6 +432,7 @@ width: 1680px;
 height: 800px;
 left: 0px;
 top: 0px;
+border-radius: 20px;
 
 background: #ffffff;
 }
@@ -428,7 +443,8 @@ position: absolute;
 width: 1680px;
 height: 600px;
 left: 0px;
-top: 800px;
+top: 850px;
+border-radius: 20px;
 
 background: #ffffff;
 }
@@ -438,7 +454,8 @@ background: #ffffff;
   width: 1680px;
   height: 122px;
   left: 0px;
-  top: 1420px;
+  top: 1500px;
+  border-radius: 20px;
   
   background: #ebe8e8;
   }
@@ -475,6 +492,7 @@ width: 260px;
 height: 260px;
 left: 128px;
 top: 245px;
+border-radius: 20px;
 
 
 
@@ -503,6 +521,7 @@ width: 260px;
 height: 260px;
 left: 516px;
 top: 245px;
+border-radius: 20px;
 
 
 
@@ -532,6 +551,7 @@ width: 260px;
 height: 260px;
 left: 902px;
 top: 245px;
+border-radius: 20px;
 
 
 
@@ -559,6 +579,7 @@ border: 1px solid rgba(0, 0, 0, 0.3);
   height: 260px;
   left: 1291px;
   top: 245px;
+  border-radius: 20px;
   
   
   
@@ -676,6 +697,7 @@ width: 750px;
 height: 440px;
 left: 850px;
 top: 80px;
+border-radius: 20px;
 
 
 
