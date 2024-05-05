@@ -27,3 +27,20 @@
     display: flex;
     justify-content: flex-end;
   }
+  .header-links a {
+    margin-top: 15px;
+    margin-left: 10px;
+    text-decoration: none;
+    color: #333;
+  }
+  .main-container {
+    position: relative;
+    width: 100vw; 
+    height: 750px;
+    top: 25px;
+    margin: 0;
+    padding: 0; 
+    box-sizing: border-box; 
+    border-radius: 0; 
+    background: #454545;
+  }
