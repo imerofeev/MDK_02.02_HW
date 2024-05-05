@@ -1,0 +1,29 @@
+.header-container {
+    position: relative;
+    width: 100vw;
+    height: 60px;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    margin-left: calc(-50vw + 50%); /* Выравнивание по левому краю */
+    background: #ffffff;
+  }
+  .header-title {
+    position: absolute;
+    left: 3.99%;
+    top: 23.33%;
+    bottom: 23.33%;
+    font-family: 'Comfortaa', sans-serif;
+    font-weight: 400;
+    font-size: 28.4444px;
+    line-height: 32px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: -0.015em;
+    color: #454545;
+  }
+  .header-links {
+    display: flex;
+    justify-content: flex-end;
+  }
