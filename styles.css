@@ -66,3 +66,32 @@
     color: #454545;
     transform: translateY(-100px)
 } 
+.main-Button {
+    position: absolute;
+    width: 192px;
+    height: 52px;
+    left: 145px;
+    top: 554px;
+    margin-right: auto;
+    margin-left: 0px;
+    margin-top: auto;
+    border-radius: 5%;
+    transform: translateY(-100px)
+  }
+
+  .main-Button button {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background: #4b4a4a; 
+    border-radius: 15px; 
+    border: none; 
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 17px;
+    line-height: 21px;
+    text-align: center;
+    color: #ffffff; 
+    cursor: pointer; 
+  }
