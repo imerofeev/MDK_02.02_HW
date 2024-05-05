@@ -5,7 +5,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    margin-left: calc(-50vw + 50%); /* Выравнивание по левому краю */
+    margin-left: calc(-50vw + 50%); 
     background: #ffffff;
   }
   .header-title {
@@ -37,9 +37,10 @@
     position: relative;
     width: 100vw; 
     height: 750px;
-    top: 25px;
+    top: 0px;
     margin: 0;
     padding: 0; 
+    margin-left: calc(-50vw + 50%); 
     box-sizing: border-box; 
     border-radius: 0; 
     background: #d3d3d3;
@@ -95,3 +96,107 @@
     color: #ffffff; 
     cursor: pointer; 
   }
+  .cards-container {
+    position: relative;
+     width: 100vw;
+    height: 1150px;
+    top: 0px;
+    margin-left: calc(-50vw + 50%); 
+    margin-right: calc(-50vw + 50%);
+    background: #fffefe;
+  }
+  .cards-text p {
+    margin-bottom: 0; 
+}
+.cards-text h2 {
+ margin-top: 0; 
+}
+ .cards-text {
+   position: absolute;
+   width: 686px;
+   height: 160px;
+   left: 144px;
+   top: 354px;
+   margin-left: 220px;
+   margin-top: 100px;
+
+   position: absolute;
+   left: 0%;
+   right: 0%;
+   top: 0%;
+   bottom: 0%;
+   font-family: 'Montserrat';
+   font-style: normal;
+   font-weight: 400;
+   font-size: 40px;
+   line-height: 40px;
+   letter-spacing: -0.015em;
+   color: #525151;
+ }
+
+ .card-1 {
+    box-sizing: border-box;
+    position: absolute;
+    width: 429px;
+    height: 726px;
+    left: 112px;
+    top: 328px;
+    background: #FFFFFF;
+    border: 1px solid rgba(0, 0, 0, 0.5);
+}
+.card-2 {
+  box-sizing: border-box;
+  position: absolute;
+  width: 429px;
+  height: 726px;
+  left: 625px;
+  top: 328px;
+  background: #FFFFFF;
+  border: 1px solid rgba(0, 0, 0, 0.5);
+}
+
+.card-3 {
+  box-sizing: border-box;
+  position: absolute;
+  width: 429px;
+  height: 726px;
+  left: 1139px;
+  top: 328px;
+  background: #FFFFFF;
+  border: 1px solid rgba(0, 0, 0, 0.5);
+}
+.red-card,
+.blue-card,
+.yellow-card {
+  position: absolute;
+  width: 427px;
+  height: 441px;
+  left: 112px;
+  top: 328px;
+  box-sizing: border-box;
+  border: 1px solid rgba(0, 0, 0, 0.3);
+}
+
+.red-card {
+  background-color: #ff0000;
+  left: 0%;
+  right: 0%;
+  top: 0%;
+  bottom: 0%;
+}
+
+.blue-card {
+  background-color: #191dff;
+  left: 0%;
+  right: 0%;
+  top: 0%;
+  bottom: 0%;
+}
+
+.yellow-card {
+  background-color: #fbff00;
+  left: 0%;
+  right: 0%;
+  top: 0%;
+  bottom: 0%;
+}
