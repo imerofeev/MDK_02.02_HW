@@ -450,3 +450,26 @@ bottom: 0%;
 background: #00AE1C;
 border: 1px solid rgba(38, 148, 0, 0.3);
 }
+
+.ellipse-1, .ellipse-2, .ellipse-3 {
+  width: 44px;
+  height: 44px;
+  border-radius: 20px;
+  background-color: #7e7d7d;
+  border: 1px solid rgba(0, 0, 0, 0.3);
+  box-sizing: border-box;
+  position: absolute;
+  top: 39px;
+}
+
+.ellipse-1 {
+  left: 2.5%;
+}
+
+.ellipse-2 {
+  left: 6%;
+}
+
+.ellipse-3 {
+  left: 9.5%;
+}
