@@ -4,7 +4,7 @@
 
     position: relative;
     width: 100%; /* Используем относительную ширину */
-    max-width: 1680px;
+    width: 100vm;
     height: 60px;
     margin-left: auto; /* Центрируем контейнер по горизонтали */
     margin-right: auto;
@@ -62,7 +62,7 @@
 
   position: relative;
   width: 100%; /* Используем относительную ширину */
-  max-width: 1680px; /* Ограничиваем максимальную ширину */
+  width: 100vm; /* Ограничиваем максимальную ширину */
   height: 960px;
   top: 25px;
   margin-left: auto; /* Центрируем контейнер по горизонтали */
@@ -165,12 +165,13 @@ background: #fbfafa;
  
    position: relative;
    width: 100%; /* Используем относительную ширину */
-   max-width: 1680px; /* Ограничиваем максимальную ширину */
+   width: 100vm; /* Ограничиваем максимальную ширину */
    height: 1150px;
    top: 50px;
    margin-left: auto; /* Центрируем контейнер по горизонтали */
    margin-right: auto;
    border-radius: 20px;
+   
  
  
  
@@ -414,50 +415,50 @@ color: #454545;
   /* Frame 2 */
 .img-container{
 position: relative;
-width: 1680px;
+width: 100vm;
 height: 500px;
 left: 0px;
 top: 100px;
 margin-left: auto; /* Центрируем контейнер по горизонтали */
 margin-right: auto;
-background: #ffffff;
+background: #ffffff00;
 border-radius: 20px;
 
 }
 
 /* gallery */
 .gallery{
-position: absolute;
-width: 1680px;
-height: 800px;
-left: 0px;
-top: 0px;
-border-radius: 20px;
-
-background: #ffffff;
+  position: absolute;
+  width: 97.8vw;
+  height: 800px;
+  left: 0px;
+  top: 0px;
+  border-radius: 20px;
+  background: #ffffff;
+  
 }
 
 /* contacts */
 .contacts{
-position: absolute;
-width: 1680px;
-height: 600px;
-left: 0px;
-top: 850px;
-border-radius: 20px;
-
-background: #ffffff;
+  position: absolute;
+  width: 97.8vw;
+  height: 600px;
+  left: 0px;
+  top: 850px;
+  border-radius: 20px;
+  background: #ffffff;
+  transform: translateX(0px);
 }
 
 .footer{
   position: absolute;
-  width: 1680px;
+  width: 97.8vw;
   height: 122px;
   left: 0px;
   top: 1500px;
   border-radius: 20px;
-  
-  background: #ebe8e8;
+  transform: translateX(0px);
+  background: #ffffff;
   }
 
 
