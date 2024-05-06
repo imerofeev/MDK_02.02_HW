@@ -27,13 +27,14 @@
 
 .header-links {
   display: flex;
-  justify-content: flex-start; /* Изменено на flex-start */
-  margin-left: 80%; /* Добавлено отступ слева */
+  justify-content: flex-start;
+  margin-left: 80%;
 }
 
 .header-links a {
   margin-top: 15px;
   margin-left: 10px;
+  margin-right: 20px; 
   text-decoration: none;
   color: #333;
 }
@@ -106,20 +107,24 @@
   top: 0px;
   margin-left: calc(-50vw + 50%);
   background: #fffefe;
+  margin-left: 0px; /* Сдвиг блока вправо */
 }
+
 .cards-text p {
   margin-bottom: 0;
 }
+
 .cards-text h2 {
   margin-top: 0;
 }
+
 .cards-text {
   position: absolute;
   width: 686px;
   height: 160px;
   left: 144px;
   top: 354px;
-  margin-left: 220px;
+  margin-left: 250px; /* Сдвиг блока вправо */
   margin-top: 100px;
   position: absolute;
   left: 0%;
@@ -134,47 +139,52 @@
   letter-spacing: -0.015em;
   color: #525151;
 }
+
 .card-1 {
   box-sizing: border-box;
   position: absolute;
   width: 429px;
   height: 726px;
-  left: 112px;
+  left: 200px; /* Сдвиг блока вправо */
   top: 328px;
   background: #FFFFFF;
   border: 1px solid rgba(0, 0, 0, 0.5);
 }
+
 .card-2 {
   box-sizing: border-box;
   position: absolute;
   width: 429px;
   height: 726px;
-  left: 625px;
+  left: 725px; 
   top: 328px;
   background: #FFFFFF;
   border: 1px solid rgba(0, 0, 0, 0.5);
 }
+
 .card-3 {
   box-sizing: border-box;
   position: absolute;
   width: 429px;
   height: 726px;
-  left: 1139px;
+  left: 1250px; 
   top: 328px;
   background: #FFFFFF;
   border: 1px solid rgba(0, 0, 0, 0.5);
 }
+
 .red-card,
 .blue-card,
 .yellow-card {
   position: absolute;
   width: 427px;
   height: 441px;
-  left: 112px;
+  left: 312px; 
   top: 328px;
   box-sizing: border-box;
   border: 1px solid rgba(0, 0, 0, 0.3);
 }
+
 .red-card {
   background-color: #ff0000;
   left: 0%;
@@ -182,6 +192,7 @@
   top: 0%;
   bottom: 0%;
 }
+
 .blue-card {
   background-color: #191dff;
   left: 0%;
@@ -189,6 +200,7 @@
   top: 0%;
   bottom: 0%;
 }
+
 .yellow-card {
   background-color: #fbff00;
   left: 0%;
@@ -196,39 +208,44 @@
   top: 0%;
   bottom: 0%;
 }
+
 .red-card-text,
 .blue-card-text,
 .yellow-card-text {
-    position: absolute;
-    width: 301px;
-    height: 36px;
-    left: 100px;
-    top: 450px;
-    font-family: 'Montserrat';
-    font-style: normal;
-    font-weight: 700;
-    font-size: 24px;
-    line-height: 36px;
-    letter-spacing: -0.015em;
+  position: absolute;
+  width: 301px;
+  height: 36px;
+  left: 300px; 
+  top: 450px;
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 36px;
+  letter-spacing: -0.015em;
 }
+
 .red-card-text {
-    left: 0%;
-    right: 0%;
-    top: 100%;
-    bottom: 0%;
+  left: 0%;
+  right: 0%;
+  top: 100%;
+  bottom: 0%;
 }
+
 .blue-card-text {
-    left: 0%;
-    right: 0%;
-    top: 100%;
-    bottom: 0%;
+  left: 0%;
+  right: 0%;
+  top: 100%;
+  bottom: 0%;
 }
+
 .yellow-card-text {
-    left: 0%;
-    right: 0%;
-    top: 100%;
-    bottom: 0%;
+  left: 0%;
+  right: 0%;
+  top: 100%;
+  bottom: 0%;
 }
+
 .img-container {
     position: relative;
     width: 100vw;
@@ -248,6 +265,7 @@
     top: 0px;
     border-radius: 0px;
     background: #ffffff;
+    transform: translateX(30px);
 }
 .contacts{
     position: absolute;
@@ -257,6 +275,7 @@
     top: 850px;
     border-radius: 20px;
     background: #ffffff;
+    transform: translateX(0px);
 }
 .footer{
     position: absolute;
@@ -266,6 +285,7 @@
     top: 1500px;
     border-radius: 20px;
     background: #ebe8e8;
+    transform: translateX(0px);
 }
 .gallery-text{
     position: absolute;
@@ -281,6 +301,7 @@
     text-align: center;
     letter-spacing: -0.015em;
     color: #454545;
+    transform: translateX(10px);
 }
 .red{
     position: absolute;
@@ -296,6 +317,7 @@
     bottom: 0%;
     background: rgba(175, 0, 0, 0.5);
     border: 1px solid rgba(0, 0, 0, 0.3);
+    transform: translateX(0px);
 }
 .green{
     position: absolute;
@@ -311,12 +333,13 @@
     bottom: 0%;
     background: rgba(3, 134, 0, 0.5);
     border: 1px solid rgba(0, 0, 0, 0.3);
+    transform: translateX(0px);
 }
 .pink{
     position: absolute;
     width: 260px;
     height: 260px;
-    left: 902px;
+    left: 1000px;
     top: 245px;
     box-sizing: border-box;
     position: absolute;
@@ -326,12 +349,13 @@
     bottom: 0%;
     background: rgba(165, 0, 168, 0.5);
     border: 1px solid rgba(0, 0, 0, 0.3);
+    transform: translateX(0px);
 }
 .blue{
     position: absolute;
     width: 260px;
     height: 260px;
-    left: 1291px;
+    left: 1400px;
     top: 245px;
     box-sizing: border-box;
     position: absolute;
@@ -341,16 +365,18 @@
     bottom: 0%;
     background: rgba(0, 142, 187, 0.5);
     border: 1px solid rgba(0, 0, 0, 0.3);
+    transform: translateX(0px);
 }
 .contacts {
   background-color: #ffffff;
-  top: 400px; 
+  top: 400px;
   padding: 20px;
   width: 100vw;
   display: flex;
   align-items: flex-start;
+  margin-left: 50px;
 }
-.contacts h{
+.contacts h {
   position: absolute;
   width: 686px;
   height: 36px;
@@ -378,7 +404,7 @@
   letter-spacing: -0.015em;
   color: #454545;
 }
-.contacts button{
+.contacts button {
   position: absolute;
   width: 192px;
   height: 52px;
@@ -407,11 +433,11 @@
   letter-spacing: -0.015em;
   color: #FFFFFF;
 }
-.green-box{
+.green-box {
   position: absolute;
   width: 750px;
   height: 440px;
-  left: 850px;
+  left: 1200px;
   top: 80px;
   box-sizing: border-box;
   position: absolute;
@@ -421,7 +447,9 @@
   bottom: 0%;
   background: #00AE1C;
   border: 1px solid rgba(38, 148, 0, 0.3);
+  margin-left: 50px; 
 }
+
 .ellipse-1 {
   position: absolute;
   width: 44px;
@@ -474,8 +502,8 @@
   position: absolute;
   width: 173px;
   height: 24px;
-  left: 1032px;
-  top: -440px;
+  left: 1150px;
+  top: -436px;
   font-family: 'Montserrat';
   font-style: normal;
   font-weight: 700;
@@ -489,8 +517,8 @@
   position: absolute;
   width: 173px;
   height: 24px;
-  left: 859px;
-  top: -450px;
+  left: 950px;
+  top: -445px;
   font-family: 'Montserrat';
   font-style: normal;
   font-size: 15px;
@@ -503,8 +531,8 @@
   position: absolute;
   width: 173px;
   height: 24px;
-  left: 668px;
-  top: -450px;
+  left: 750px;
+  top: -447px;
   font-family: 'Montserrat';
   font-style: normal;
   font-weight: 700;
@@ -518,7 +546,7 @@
   position: absolute;
   width: 173px;
   height: 24px;
-  left: 475px;
+  left: 550px;
   top: -450px;
   font-family: 'Montserrat';
   font-style: normal;
@@ -533,7 +561,7 @@
   position: absolute;
   width: 301px;
   height: 24px;
-  left: 1299px;
+  left: 1500px;
   top: -460px;
   font-family: 'Montserrat';
   font-style: normal;
