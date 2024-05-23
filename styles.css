@@ -1,4 +1,3 @@
-
 .header-container {
   position: relative;
   width: 100vw;
@@ -295,7 +294,7 @@
     position: absolute;
     left: 9.52%;
     right: 7.62%;
-    top:0%;
+    top:-5%;
     bottom: 72.41%;
     font-family: 'Montserrat', sans-serif;
     font-style: normal;
