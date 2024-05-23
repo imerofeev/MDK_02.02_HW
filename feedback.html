@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Review Modal</title>
+<style>
+  body { font-family: Arial, sans-serif; margin: 0; padding: 0; }
+  .modal {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.6);
+    visibility: hidden;
+    opacity: 0;
+    transition: visibility 0s, opacity 0.3s;
+  }
+  .modal.active {
+    visibility: visible;
+    opacity: 1;
+  }
+  .modal-content {
+    background: #fff;
+    padding: 30px;
+    text-align: center;
+    width: 400px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    box-sizing: border-box;
+  }
+  .modal-content h2 {
+    margin-bottom: 20px;
+  }
+  .modal-content input, .modal-content textarea {
+    padding: 10px;
+    border: 1px solid #3d3d3d;
+    margin-bottom: 15px;
+    font-size: 14px;
+  }
+  .modal-content input.full-width, .modal-content textarea {
+    width: calc(100% - 22px);
+  }
+  .modal-content .name-container {
+    display: flex;
+    justify-content: space-between;
+    gap: 10px;
+  }
+  .modal-content .name-container input {
+    width: calc(50% - 5px); 
+  }
+  .modal-content textarea {
+    width: calc(100% - 22px); 
+    height: 120px;
+    resize: none;
+  }
+  .modal-content button {
+    padding: 12px 25px;
+    border: none;
+    border-radius: 5px;
+    background-color: #333;
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  .modal-content button:hover {
+    background-color: #555;
+  }
+</style>
+</head>
+<body>
+
+<div class="modal" id="reviewModal">
+  <div class="modal-content">
+    <h2>Оставьте отзыв</h2>
+    <div class="name-container">
+      <input type="text" placeholder="Имя" id="firstName">
+      <input type="text" placeholder="Фамилия" id="lastName">
+    </div>
+    <input type="email" placeholder="Электронная почта" id="email" class="full-width">
+    <textarea placeholder="Написать отзыв" id="review"></textarea>
+    <button onclick="submitReview()">Отправить</button>
+  </div>
+</div>
+
+<script>
+  function openModal() {
+    document.getElementById('reviewModal').classList.add('active');
+  }
+
+  function submitReview() {
+    const firstName = document.getElementById('firstName').value;
+    const lastName = document.getElementById('lastName').value;
+    const email = document.getElementById('email').value;
+    const review = document.getElementById('review').value;
+
+    if (firstName && lastName && email && review) {
+      alert(`Спасибо за ваш отзыв, ${firstName} ${lastName}!`);
+      document.getElementById('reviewModal').classList.remove('active');
+    } else {
+      alert('Пожалуйста, заполните все поля.');
+    }
+  }
+  window.onload = openModal;
+</script>
+</body>
+</html>
