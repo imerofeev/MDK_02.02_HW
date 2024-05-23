@@ -103,6 +103,15 @@
   cursor: pointer;
   border-radius: 5px;
 }
+.no-underline a {
+  text-decoration: none;
+  color: inherit;
+}
+
+.button-style {
+  text-decoration: none;
+  color: white;
+}
 .cards-container {
   position: relative;
   width: 100vw;
