@@ -412,22 +412,20 @@
   position: absolute;
   width: 192px;
   height: 52px;
-  bottom: 0%;
-  background: #454545;
-  border-radius: 6px;
-  left: 13.65%;
-  right: 13.95%;
-  top: 70%;
-  bottom: 30.19%;
+  left: 340px;
+  top: 439px;
+  background: #4b4a4a;
+  border-radius: 15px;
+  border: none;
   font-family: 'Montserrat';
   font-style: normal;
   font-weight: 500;
   font-size: 17px;
   line-height: 21px;
-  align-items: center;
   text-align: center;
-  letter-spacing: -0.015em;
-  color: #FFFFFF;
+  color: #ffffff;
+  cursor: pointer;
+  border-radius: 5px;
 }
 .green-box {
   position: absolute;
