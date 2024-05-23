@@ -2,97 +2,105 @@
 <html lang="ru">
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="description" content="Сайт, посвященный моему хобби - VALORANT">
-  <meta name="keywords" content="хобби, история, факты, изображения">
-  <title>Моё хобби - История</title>
+  <title>Моё хобби</title>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Comfortaa&family=Montserrat:wght@400;500&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="styles.css">
 </head>
+<style>
+  body {
+    background-color: #ffffff; 
+  }
+</style>
+
+</head>
 <body>
-  <div class="grid-container">
-    <header class="header">
-      <nav class="menu">
-        <h1 class="menu__title">Valorant</h1>
-        <div class="menu__links">
-          <a href="#facts" class="menu__link">Факты</a>
-          <a href="#gallery" class="menu__link">Изображения</a>
-          <a href="#feedback" class="menu__link">Обратная связь</a>
-        </div>
-      </nav>
-    </header>
-    <main class="main">
-      <section class="hero">
-        <div class="hero__text">
-          <p>Сайт о моём хобби:</p>
-          <h2>VALORANT</h2>
-        </div>
-        <button class="feedback__button">Написать отзыв</button>
-      </section>
-      <section class="facts" id="facts">
-        <div class="facts__header">
-          <b><h1>Почему я играю в</h1></b>
-          <h2>VALORANT</h2>
-        </div>
-        <div class="facts__cards">
-          <div class="facts__card facts__card--red">
-            <h3>Текст 1</h3>
-            <p>Описание</p>
-          </div>
-          <div class="facts__card facts__card--blue">
-            <h4>Текст 2</h4>
-            <p>Описание</p>
-          </div>
-          <div class="facts__card facts__card--yellow">
-            <h5>Текст 3</h5>
-            <p>Описание</p>
-          </div>
-        </div>
-      </section>
-      <section class="gallery" id="gallery">
-        <div class="gallery__header">
-        <b><h1>Изображения</h1></b>
-        </div>
-        <div class="gallery__images">
-          <div class="gallery__image gallery__image--red"></div>
-          <div class="gallery__image gallery__image--green"></div>
-          <div class="gallery__image gallery__image--pink"></div>
-          <div class="gallery__image gallery__image--blue"></div>
-        </div>
-      </section>
-      <section class="feedback" id="feedback">
-        <div class="feedback__header">
-          <h3>Оставьте отзыв о статье</h3>
-          <h1>Дополнительный текст</h1>
-        </div>
-        <button class="feedback__button">Написать отзыв</button>
-        <div class="feedback__box"></div>
-      </section>
-    </main>
-    <footer class="footer">
-      <head>
-        <link rel="stylesheet"
-      href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
-      </head>
-      <div class="icons">
-       <footer__circle class="fa fa-youtube fa-2x" aria-hidden="true">
-      </footer__circle>
-      <footer__circle class="fa fa-github fa-2x" aria-hidden="true">
-      </footer__circle>
-      <footer__circle class="fa fa-codepen fa-2x"
-      aria-hidden="true">  
-        </footer__circle></div>
-      <div class="footer__links">
-        <a href="#feedback" class="footer__link">Связаться</a>
-        <a href="#gallery" class="footer__link">Изображения</a>
-        <a href="#facts" class="footer__link">Факты</a>
-        <a href="#" class="footer__link">О хобби</a>
+
+  <div class="header-container"> 
+    <h1 class="header-title">название хобби</h1>    
+    <div class="header-links">
+      <a href="#cards" class="link-1">Факты</a>
+      <a href="#gallery" class="link-2">Галерея</a>
+      <a href="#contacts" class="link-3">Контакты</a>
+    </div>
+  </div>
+
+  <div class="main-container" id="main">
+    <div class="main-text">
+        <p>Сайт о моём хобби:</p>
+        <h4>Название хобби</h4> 
+
+    </div>
+    <div class="main-Button">
+      <button>Написать отзыв</button>
+    </div>
+  </div>
+
+
+  <div class="cards-container" id="cards">
+    <div class="cards-text">
+      <p>Интерестные факты о</p>
+      <h2>название хобби</h2>    
+  </div>
+  <div class="cards">
+    <div class="card-1">
+      <div class="red-card">
+       <div class="red-card-text">
+        <h3>Sed ut perspiciatis</h3>
+        <p>Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia.</p>
+       </div>
       </div>
-      
-      <p class="footer__copyright">© МОЁ ХОББИ - VALORANT, Inc. 2024</p>
-    </footer>
+    </div>
+    <div class="card-2">
+      <div class="blue-card">
+        <div class="blue-card">
+          <div class="blue-card-text">
+           <h3>Lorem ipsum dolor</h3>
+           <p>Amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore.</p>
+          </div>
+         </div>
+      </div>
+    </div>
+    <div class="card-3">
+      <div class="yellow-card">
+        <div class="yellow-card-text">
+          <h3>Nemo enim ipsam</h3>
+          <p>Consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.</p>
+         </div>
+      </div>
+    </div>
+  </div>
+  </div>
+
+  <div class="img-container">
+    <div class="gallery" id="gallery">
+     <div class="gallery-text">
+      <p>Изображение название хобби</p>
+      <div class="red"></div>
+      <div class="green"></div>
+      <div class="pink"></div>
+      <div class="blue"></div>
+     </div>
+    </div>
+
+    <div class="contacts" id="contacts">
+      <h>Оставте отзыв о сайте</h>
+      <h1>Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem.</h1>
+      <button>Написать отзыв</button>
+      <div class="green-box"></div>
+    </div>
+
+    <div class="footer">
+      <div class="ellipse-1"></div>
+      <div class="ellipse-2"></div>
+      <div class="ellipse-3"></div>
+      <h>Связаться</h>
+      <h1><a href="#gallery" class="link-2">Галерея</a></h1>
+      <h2><a href="#cards" class="link-1">Факты</a></h2>
+      <h3><a href="#main" хобби>О хобби</a></h3>
+      <h4>&copy; МОЁ ХОББИ, Inc. 2024</h4>
+    </div>
   </div>
 </body>
 </html>
