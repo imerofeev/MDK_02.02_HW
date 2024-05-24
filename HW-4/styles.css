@@ -1,0 +1,832 @@
+.roboto-slab-<uniquifier> {
+  font-family: "Roboto Slab", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+/* Стили для контейнера */
+
+.header-container {/* navigation */
+
+    position: relative;
+    width: 100%; /* Используем относительную ширину */
+    width: 100vm;
+    height: 60px;
+    margin-left: auto; /* Центрируем контейнер по горизонтали */
+    margin-right: auto;
+    border-radius: 20px;
+    
+    background: #ffffff;
+    
+  }
+  
+  /* Стили для заголовка */
+  .header-title {/* название хобби */
+
+    position: absolute;
+    left: 3.99%;
+    right: 79.93%;
+    top: 23.33%;
+    bottom: 23.33%;
+    
+    font-family: 'Comfortaa';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 28.4444px;
+    line-height: 32px;
+    /* identical to box height */
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: -0.015em;
+    
+    color: #454545;
+    
+    
+  }
+  
+ /* Стили для ссылок */
+.header-links {
+    
+    display: flex; /* Размещаем ссылки в строку */
+    justify-content: flex-end; /* Размещаем ссылки в правой части контейнера */
+    
+  }
+  
+  /* Стили для каждой ссылки */
+  .header-links a {
+    margin-top: 15px; /* сдвиг по оси y */
+    margin-left: 10px; /* сдвиг по оси x */
+    text-decoration: none; /* Убираем подчеркивание */
+    color: #333; /* Цвет текста */
+  }
+
+
+  /* Стили для контейнера навигации */
+.navigation-container {
+   /* header */
+
+  position: relative;
+  width: 100%; /* Используем относительную ширину */
+  width: 100vm; /* Ограничиваем максимальную ширину */
+  height: 960px;
+  top: 25px;
+  margin-left: auto; /* Центрируем контейнер по горизонтали */
+  margin-right: auto;
+  border-radius: 20px;
+
+
+
+background: #fbfafa;
+
+  }
+  
+  .navigation-text p {
+    margin-bottom: 0; /* Убираем нижний отступ у абзаца */
+}
+
+.navigation-text h1 {
+    margin-top: 0; /* Убираем верхний отступ у заголовка */
+}
+  .navigation-text  {/* The largest community of photo enthusiasts
+
+    Hero H1
+    */
+    
+    position: absolute;
+    width: 686px;
+    height: 160px;
+    left: 144px;
+    top: 354px;
+    margin-left: 220px;
+    margin-top: 300px;
+    
+    
+    
+    /* The largest community of photo enthusiasts */
+    
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 0%;
+    bottom: 0%;
+    
+    /* Hero H1 */
+    font-family: 'Roboto Slab';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 56px;
+    line-height: 80px;
+    /* or 143% */
+    letter-spacing: -0.015em;
+    
+    color: #454545;
+    
+    
+  }
+  
+  /* Стили для кнопки навигации */
+  .navigation-Button {
+    position: absolute;
+    width: 192px;
+    height: 52px;
+    left: 145px;
+    top: 554px;
+    margin-right: auto;
+    margin-left: 70px;
+    margin-top: auto;
+  }
+  
+  .navigation-Button button {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background: #353434; /* Цвет фона */
+    border-radius: 15px; /* Скругление углов */
+    border: none; /* Убираем границы */
+    font-family: 'Roboto Slab';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 17px;
+    line-height: 21px;
+    text-align: center;
+    color: #ffffff; /* Цвет текста */
+    cursor: pointer; /* Изменяем курсор при наведении */
+  }
+  .cards-container {
+    /* header */
+ 
+   position: relative;
+   width: 100%; /* Используем относительную ширину */
+   width: 100vm; /* Ограничиваем максимальную ширину */
+   height: 1150px;
+   top: 50px;
+   margin-left: auto; /* Центрируем контейнер по горизонтали */
+   margin-right: auto;
+   border-radius: 20px;
+   
+ 
+ 
+ 
+ background: #fffefe;
+ 
+   }
+   
+   .cards-text p {
+     margin-bottom: 0; /* Убираем нижний отступ у абзаца */
+ }
+ .cards-text h2 {
+  margin-top: 0; /* Убираем верхний отступ у заголовка */
+}
+  .cards-text  {/* The largest community of photo enthusiasts
+
+    Hero H1
+    */
+    
+    position: absolute;
+    width: 686px;
+    height: 160px;
+    left: 144px;
+    top: 354px;
+    margin-left: 220px;
+    margin-top: 100px;
+    
+    
+    
+    /* The largest community of photo enthusiasts */
+    
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 0%;
+    bottom: 0%;
+    
+    /* Hero H1 */
+    font-family: 'Roboto Slab';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 40px;
+    /* or 143% */
+    letter-spacing: -0.015em;
+    
+    color: #525151;
+    
+    
+  }
+  /* Rectangle */
+  .card-1 {
+    box-sizing: border-box;
+    position: absolute;
+    width: 429px;
+    height: 726px;
+    left: 112px;
+    top: 328px;
+    background: #FFFFFF;
+    border: 1px solid rgba(0, 0, 0, 0.5);
+    border-radius: 20px;
+}
+.card-2 {
+  box-sizing: border-box;
+  position: absolute;
+  width: 429px;
+  height: 726px;
+  left: 625px;
+  top: 328px;
+  background: #FFFFFF;
+  border: 1px solid rgba(0, 0, 0, 0.5);
+  border-radius: 20px;
+}
+
+.card-3 {
+  box-sizing: border-box;
+  position: absolute;
+  width: 429px;
+  height: 726px;
+  left: 1139px;
+  top: 328px;
+  background: #FFFFFF;
+  border: 1px solid rgba(0, 0, 0, 0.5);
+  border-radius: 20px;
+}
+
+/* Rectangle - Image Block */
+.red-card {
+  /* Rectangle
+
+Image Block
+*/
+
+position: absolute;
+width: 427px;
+height: 441px;
+left: 112px;
+top: 328px;
+border-radius: 20px;
+
+
+
+/* Rectangle */
+
+box-sizing: border-box;
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #FF0000;
+border: 1px solid rgba(0, 0, 0, 0.3);
+
+}
+
+.blue-card {
+  /* Rectangle
+
+Image Block
+*/
+
+position: absolute;
+width: 427px;
+height: 441px;
+left: 112px;
+top: 328px;
+border-radius: 20px;
+
+
+
+/* Rectangle */
+
+box-sizing: border-box;
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #191dff;
+border: 1px solid rgba(0, 0, 0, 0.3);
+
+}
+
+.yellow-card {
+  /* Rectangle
+
+Image Block
+*/
+
+position: absolute;
+width: 427px;
+height: 441px;
+left: 112px;
+top: 328px;
+border-radius: 20px;
+
+
+
+/* Rectangle */
+
+box-sizing: border-box;
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #fbff00;
+border: 1px solid rgba(0, 0, 0, 0.3);
+
+}
+
+/* Sed ut perspiciatis */
+.red-card-text {
+position: absolute;
+width: 301px;
+height: 36px;
+left: 100px;
+top: 450px;
+
+/* Body H4 */
+font-family: 'Roboto Slab';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 36px;
+/* identical to box height, or 150% */
+letter-spacing: -0.015em;
+
+color: #454545;
+}
+
+
+.blue-card-text {
+  position: absolute;
+  width: 301px;
+  height: 36px;
+  left: 100px;
+  top: 450px;
+  
+  
+  /* Body H4 */
+  font-family: 'Roboto Slab';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 36px;
+  /* identical to box height, or 150% */
+  letter-spacing: -0.015em;
+  
+  color: #454545;
+  }
+
+.yellow-card-text {
+  position: absolute;
+  width: 301px;
+  height: 36px;
+  left: 100px;
+  top: 450px;
+  
+  /* Body H4 */
+  font-family: 'Roboto Slab';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 36px;
+  /* identical to box height, or 150% */
+  letter-spacing: -0.015em;
+  
+  color: #454545;
+  }
+
+
+
+
+
+  /* Frame 2 */
+.img-container{
+position: relative;
+width: 100vm;
+height: 500px;
+left: 0px;
+top: 100px;
+margin-left: auto; /* Центрируем контейнер по горизонтали */
+margin-right: auto;
+background: #ffffff00;
+border-radius: 25px;
+
+}
+
+/* gallery */
+.gallery{
+  position: absolute;
+  width: 97.8vw;
+  height: 800px;
+  left: 0px;
+  top: 0px;
+  border-radius: 25px;
+  background: #ffffff;
+  
+}
+
+/* contacts */
+.contacts{
+  position: absolute;
+  width: 97.8vw;
+  height: 600px;
+  left: 0px;
+  top: 850px;
+  border-radius: 25px;
+  background: #ffffff;
+  transform: translateX(0px);
+}
+
+.footer{
+  position: absolute;
+  width: 97.8vw;
+  height: 122px;
+  left: 0px;
+  top: 1500px;
+  border-radius: 25px;
+  transform: translateX(0px);
+  background: #ffffff;
+  }
+
+
+  /* Изображения название хобби */
+.gallery-text{
+position: absolute;
+left: 9.52%;
+right: 7.62%;
+top:0%;
+bottom: 72.41%;
+
+/* Sub-page H1 */
+font-family: 'Roboto Slab';
+font-style: normal;
+font-weight: 40;
+font-size: 35px;
+line-height: 72px;
+/* identical to box height, or 150% */
+text-align: center;
+letter-spacing: -0.015em;
+
+color: #454545;
+}
+.red{
+position: absolute;
+width: 260px;
+height: 260px;
+left: 128px;
+top: 245px;
+border-radius: 20px;
+/* Rectangle */
+box-sizing: border-box;
+position: absolute;
+left: 0%;
+right: 0%;
+top: 50%;
+bottom: 0%;
+background: rgba(175, 0, 0, 0.5);
+border: 1px solid rgba(0, 0, 0, 0.3);
+}
+.green{
+  /* Rectangle
+Image Block
+*/
+position: absolute;
+width: 260px;
+height: 260px;
+left: 516px;
+top: 245px;
+border-radius: 20px;
+/* Rectangle */
+box-sizing: border-box;
+
+position: absolute;
+left: 25%;
+right: 0%;
+top: 50%;
+bottom: 0%;
+
+background: rgba(3, 134, 0, 0.5);
+border: 1px solid rgba(0, 0, 0, 0.3);
+
+  }
+.pink{
+  /* Rectangle
+
+Image Block
+*/
+
+position: absolute;
+width: 260px;
+height: 260px;
+left: 902px;
+top: 245px;
+border-radius: 20px;
+
+
+
+/* Rectangle */
+
+box-sizing: border-box;
+
+position: absolute;
+left: 55%;
+right: 0%;
+top: 50%;
+bottom: 0%;
+
+background: rgba(165, 0, 168, 0.5);
+border: 1px solid rgba(0, 0, 0, 0.3);
+
+}
+.blue{/* Rectangle
+
+  Image Block
+  */
+  
+  position: absolute;
+  width: 260px;
+  height: 260px;
+  left: 1291px;
+  top: 245px;
+  border-radius: 20px;
+  
+  
+  
+  /* Rectangle */
+  
+  box-sizing: border-box;
+  
+  position: absolute;
+  left: 80%;
+  right: 0%;
+  top: 50%;
+  bottom: 0%;
+  
+  background: rgba(0, 142, 187, 0.5);
+  border: 1px solid rgba(0, 0, 0, 0.3);
+  }
+
+/* Оставить отзыв о сайте */
+.contacts h{
+position: absolute;
+width: 686px;
+height: 36px;
+left: 93px;
+top: 113px;
+
+font-family: 'Roboto Slab';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 72px;
+/* or 150% */
+letter-spacing: -0.015em;
+
+color: #454545;
+}
+
+.contacts h1 {
+position: absolute;
+width: 686px;
+height: 90px;
+left: 93px;
+top: 249px;
+
+/* Body P */
+font-family: 'Roboto Slab';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 30px;
+/* or 167% */
+letter-spacing: -0.015em;
+
+color: #454545;
+}
+
+.contacts button{
+  /* Button
+
+Primary Button
+*/
+
+position: absolute;
+width: 192px;
+height: 52px;
+left: 340px;
+top: 439px;
+
+
+
+/* Rectangle 2 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #454545;
+border-radius: 6px;
+
+
+/* Join Today */
+
+position: absolute;
+left: 13.65%;
+right: 13.95%;
+top: 70%;
+bottom: 30.19%;
+
+font-family: 'Roboto Slab';
+font-style: normal;
+font-weight: 500;
+font-size: 17px;
+line-height: 21px;
+/* identical to box height */
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: -0.015em;
+
+color: #FFFFFF;
+
+
+}
+
+.green-box{
+  /* Rectangle
+
+Image Block
+*/
+
+position: absolute;
+width: 750px;
+height: 440px;
+left: 850px;
+top: 80px;
+border-radius: 20px;
+
+
+
+/* Rectangle */
+
+box-sizing: border-box;
+
+position: absolute;
+left: 50%;
+right: 0%;
+top: 15%;
+bottom: 0%;
+
+background: #00AE1C;
+border: 1px solid rgba(38, 148, 0, 0.3);
+
+}
+.ellipse-1{/* Ellipse
+
+  Circular Image Block
+  */
+  
+  position: absolute;
+  width: 44px;
+  height: 44px;
+  left: 80px;
+  top: 39px;
+  
+  
+  
+  /* Ellipse */
+  
+  box-sizing: border-box;
+  
+  position: absolute;
+  left: 2.5%;
+  right: 0%;
+  top: 30%;
+  bottom: 0%;
+  border-radius: 20px;
+  
+  background: #7e7d7d;
+  border: 1px solid rgba(0, 0, 0, 0.3);
+  
+
+}
+
+.ellipse-2{
+  position: absolute;
+  width: 44px;
+  height: 44px;
+  left: 80px;
+  top: 39px;
+ 
+  
+  
+  
+  /* Ellipse */
+  
+  box-sizing: border-box;
+  
+  position: absolute;
+  left: 6%;
+  right: 0%;
+  top: 30%;
+  bottom: 0%;
+  border-radius: 20px;
+  
+  background: #7e7d7d;
+  border: 1px solid rgba(0, 0, 0, 0.3);
+}
+
+.ellipse-3{
+  position: absolute;
+  width: 44px;
+  height: 44px;
+  left: 80px;
+  top: 39px;
+  
+  
+  
+  /* Ellipse */
+  
+  box-sizing: border-box;
+  
+  position: absolute;
+  left: 9.5%;
+  right: 0%;
+  top: 30%;
+  bottom: 0%;
+  border-radius: 20px;
+  
+  background: #7e7d7d;
+  border: 1px solid rgba(0, 0, 0, 0.3);
+}
+
+
+.footer h1{
+  /* Галерея */
+
+position: absolute;
+width: 173px;
+height: 24px;
+left: 859px;
+top: 49px;
+
+font-family: 'Roboto Slab';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 24px;
+/* identical to box height, or 160% */
+letter-spacing: -0.015em;
+
+color: #454545;
+
+
+}
+.footer h2{
+  /* Факты */
+
+position: absolute;
+width: 173px;
+height: 24px;
+left: 668px;
+top: 49px;
+
+font-family: 'Roboto Slab';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 24px;
+/* identical to box height, or 160% */
+letter-spacing: -0.015em;
+
+color: #454545;
+
+
+}
+.footer h3 {
+  /* О хобби */
+
+position: absolute;
+width: 173px;
+height: 24px;
+left: 475px;
+top: 49px;
+
+font-family: 'Roboto Slab';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 24px;
+/* identical to box height, or 160% */
+letter-spacing: -0.015em;
+
+color: #454545;
+}
